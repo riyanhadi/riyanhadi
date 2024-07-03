@@ -1,13 +1,10 @@
 # Hi there, I'm Riyan Hadi Prabowo 👋
-
-![Profile Views](https://riyanhadi.my.id/)
-
 Welcome to my GitHub profile! I'm a passionate freelance developer specializing in web and mobile development. 
 
 ## About Me
 - 👨‍💻 I'm a **Freelance Developer**, **Web Developer**, and **Mobile Developer**.
-- 🌱 I’m currently learning **Flutter** and **PP**.
-- 💬 Ask me about **HTML**, **CSS**, **JavaScript**,**PHP**, **Dart**, and **Flutter**.
+- 🌱 I’m currently learning **Laravel** and **Flutter**.
+- 💬 Ask me about **HTML**, **CSS**, **JavaScript**,**PHP**,**CI**,**Laravel**, **Dart**, and **Flutter**.
 - 📫 How to reach me: [Email](mailto:re.wirohadi@gmail.com)
 
 ## Skills
@@ -21,12 +18,10 @@ Welcome to my GitHub profile! I'm a passionate freelance developer specializing 
 ![Riyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyanhadi&show_icons=true&theme=radical)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyanhadie&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyanhadi&layout=compact&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/riyanhadi)
-
-<!-- Add any other section you want here, for example, the latest blog posts -->
 

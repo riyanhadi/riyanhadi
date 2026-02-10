@@ -15,10 +15,10 @@ Welcome to my GitHub profile! I'm a passionate freelance developer specializing 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ## GitHub Stats
-![Riyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyanhadi&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=riyanhadi&show_icons=true&theme=radical&cache_seconds=60)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyanhadi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyanhadi&layout=compact&theme=radical&cache_seconds=60)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
